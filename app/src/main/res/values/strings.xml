@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">botones</string>
+    <string name="entran_numeros">Entran</string>
+    <string name="salen_numeros">Salen</string>
+    <string name="contador">0</string>
+    <string name="texto_boton">ADD</string>
+</resources>
